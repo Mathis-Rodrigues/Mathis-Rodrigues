@@ -82,7 +82,7 @@ Hello ! I recently graduated with a master's degree in computer science from Epi
 
 <div align="center">
 <h3 align="center"> Contact me </h3>
-    <a href="https://www.linkedin.com/in/matthieu-kozicki-6bb55717b/](https://www.linkedin.com/in/mathis-rdg/">
+    <a href="https://www.linkedin.com/in/mathis-rdg/">
       <img alt="Mathis Rodrigues LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
     </a>
 </div>
